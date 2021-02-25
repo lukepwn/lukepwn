@@ -4,7 +4,7 @@ Check out my profile at https://lukepwn.github.io/
 
 - :telescope: I’m currently working on MERN stack implementation.
 - :seedling: I’m currently learning React-Router, GraphQL.
-- :people_with_bunny_ears_partying: I’m looking to collaborate on cool web projects.
+- 👯‍♂️ I’m looking to collaborate on cool web projects.
 - :thinking: I’m looking for help with automation.
 - :mailbox: How to reach me: Email: lukedam@gmail.com
 - :zap: Fun fact: I spend time learning about new tech.
