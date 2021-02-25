@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my github profile! :wave:
 
-<!--
-**lukepwn/lukepwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my profile at https://lukepwn.github.io/
 
-Here are some ideas to get you started:
+- :telescope: I’m currently working on MERN stack implementation.
+- :seedling: I’m currently learning React-Router, GraphQL.
+- :people_with_bunny_ears_partying: I’m looking to collaborate on cool web projects.
+- :thinking: I’m looking for help with automation.
+- :mailbox: How to reach me: Email: lukedam@gmail.com
+- :zap: Fun fact: I spend time learning about new tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=lukepwn&&show_icons=true&count_private=true&theme=radical%22%3E
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukepwn&layout=compact&theme=radical&langs_count=6%22%3E
