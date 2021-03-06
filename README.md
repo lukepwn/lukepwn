@@ -1,8 +1,9 @@
 ### Welcome to my GitHub profile!
 
-I am a recent graduate who is highly motivated to become a full stack developer, specialized in web-development. 
+Looking for work!
+I am a recent graduate who is highly motivated to become a full stack developer, specializing in web-development. 
 
-🖥 Check out my portfolio at https://lukepwn.github.io/  
+🖥 Check out my portfolio: https://lukepwn.github.io/  
 📬 How to reach me: lukedam@gmail.com  
 :zap: Hobbies: Chess, Stocks, Algorithms, DFOG
 
